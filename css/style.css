@@ -44,6 +44,7 @@ h3 {
   letter-spacing: .3em;
   margin-bottom: 18px;
   line-height: 1em;
+  font-size: small;
 }
 
 h4 {
@@ -109,4 +110,12 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+}
+
+#pharell {
+  text-align: left;
+}
+
+#columbia {
+  text-align: right;
 }
